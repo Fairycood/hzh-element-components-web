@@ -1,0 +1,1 @@
+import{d as a,f as s,u as c,b as r,o as t}from"./index.c616ea69.js";const p=a({__name:"index",setup(_){let o=e=>{console.log(e)};return(e,h)=>{const n=r("hzh-choose-area");return t(),s(n,{onChange:c(o)},null,8,["onChange"])}}});export{p as default};
